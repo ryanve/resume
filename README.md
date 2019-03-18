@@ -1,2 +1,2 @@
 # resume
-ugh.
+https://ryanve.github.io/resume
